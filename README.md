@@ -1,4 +1,4 @@
- nb n <h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=89DCEB&center=true&vCenter=true&random=false&width=620&lines=Hey%2C+I'm+Arina+%F0%9F%91%8B;Info+Sci+%2B+Data+Science+%40+UIUC+%F0%9F%8E%93;Software+%C2%B7+Data+%C2%B7+ML+Systems;Birds+keep+showing+up+in+my+code+%F0%9F%90%A6" alt="Typing SVG" />
 </h1>
 
