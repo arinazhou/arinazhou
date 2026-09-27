@@ -1,123 +1,64 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=89DCEB&center=true&vCenter=true&random=false&width=620&lines=Hey%2C+I'm+Arina+%F0%9F%91%8B;Info+Sci+%2B+Data+Science+%40+UIUC+%F0%9F%8E%93;Software+%C2%B7+Data+%C2%B7+ML+Systems;Birds+keep+showing+up+in+my+code+%F0%9F%90%A6" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <a href="https://arinazhou.github.io"><img src="https://img.shields.io/badge/Portfolio-arinazhou.github.io-89dceb?style=for-the-badge&logo=githubpages&logoColor=89dceb&labelColor=1e1e2e&color=313244" /></a>
-  <a href="https://www.linkedin.com/in/arinazhou"><img src="https://img.shields.io/badge/LinkedIn-Arina_Zhou-cba6f7?style=for-the-badge&logo=linkedin&logoColor=cba6f7&labelColor=1e1e2e&color=313244" /></a>
-  <a href="mailto:arinaz2@illinois.edu"><img src="https://img.shields.io/badge/Email-arinaz2-a6e3a1?style=for-the-badge&logo=gmail&logoColor=a6e3a1&labelColor=1e1e2e&color=313244" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:1E3A5F&height=200&section=header&text=Arina%20Zhou&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20%C2%B7%20Data%20Engineering%20%C2%B7%20ML%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Arina Zhou" />
 </p>
 
----
+<p align="center">
+  <a href="https://arinazhou.github.io"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arinazhou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arinaz2@illinois.edu"><img src="https://img.shields.io/badge/Email-1E3A5F?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Summer%202027%20SWE%20%2F%20DE%20Internships-14B8A6?style=flat-square" />
+</p>
 
-## 🧑‍💻 About Me
-
-- 🎓 **Information Sciences + Data Science**, CS minor @ University of Illinois Urbana-Champaign · 2028
-- 🦉 **SWE Intern @ Nighthawk** (Van Doren Lab) — GPU-accelerated bird-migration detection, 4.8× → **25× real-time**
-- 🌆 **Software & Data Engineering Intern @ Windy City Bird Lab & NRES** — geospatial pipelines across 50+ monitoring sites
-- 📳 **Research Software Developer @ UIUC iSchool** — an app that turns live audio into haptic feedback
-- 🏐 Former national-level volleyball player · 🐦 budgie parent
-- 🔍 Open to **Summer 2027 SWE / Data Engineering** internships
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="150"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,ts,java,swift,cpp,js&theme=dark" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Data / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" /> &nbsp;<sub>+ LangGraph · LangChain · FAISS · GeoPandas · Rasterio</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,postgres,firebase&theme=dark" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend / Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,bash,git,raspberrypi&theme=dark" /></td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🦉 [Nighthawk](https://github.com/arinazhou/Nighthawk)
-
-<img src="https://img.shields.io/badge/inference-25%C3%97_real--time-89dceb?style=flat-square&labelColor=1e1e2e&color=313244" />
-
-GPU-accelerated acoustic inference for an open-source **nocturnal bird migration** detector. Refactored the pipeline for speed and numerical stability, with automated CPU/GPU eval for reproducible Linux deploys.
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,linux&theme=dark" height="36" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🤖 [AI Engineering Assistant](https://github.com/arinazhou/AI-Engineering-Assistant)
-
-<img src="https://img.shields.io/github/stars/arinazhou/AI-Engineering-Assistant?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
-
-Ask questions about a codebase and get answers with file citations. Repo-aware **RAG** on a LangGraph retrieve → generate workflow over a local FAISS index, with a CLI and a Streamlit UI.
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="36" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🐦 [FeatherLog](https://github.com/arinazhou/featherlog)
-
-<img src="https://img.shields.io/github/stars/arinazhou/featherlog?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
-
-Built for my budgie. A REST API that turns daily weigh-ins into **early health alerts** (median baselines, rapid-change detection) and keeps care schedules on track. JWT auth, Flyway, CI.
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker&theme=dark" height="36" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 📊 [H1BView](https://github.com/arinazhou/H1BView)
-
-<img src="https://img.shields.io/github/stars/arinazhou/H1BView?style=flat-square&logo=github&label=stars&labelColor=1e1e2e&color=313244" />
-
-A Streamlit + Plotly dashboard over 2025 H-1B LCA filings that helps international job seekers find **sponsor-friendly roles**, top-paying employers and approval trends.
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="36" />
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📁 More projects</b></summary>
+<p align="center">
+  I build systems that connect software to real-world data: acoustic sensors, ecological fieldwork, developer workflows.
+</p>
 
 <br>
 
-- 🌃 **Chicago Nocturnal Bird Communities** — NMDS community-composition analysis linking bird acoustics to habitat, nighttime light and water proximity. [repo](https://github.com/arinazhou/chicago-acoustic-species-composition)
-- 🌊 **Chicago Lakefront Conservation** — research analysis for lakefront conservation. [repo](https://github.com/arinazhou/chicago-lakefront-conservation)
-- 📳 **Accessible Audio-Haptic App** — live audio → synchronized haptics via an event-driven pipeline bridging React Native and native Swift.
-- 🏐 **Illini Volleyball Analytics** — player evaluation and a Random Forest model for substitution strategy. [repo](https://github.com/arinazhou/illini-volleyball-analytics)
-- 🩺 **Public Health Behaviour Analysis** — co-occurring health risks from BRFSS 2023 microdata. [repo](https://github.com/arinazhou/public-health-behaviour-data-analysis---marijuana-use)
-- 💪 **Fitness App** — social fitness tracking with React Native + Firebase. [repo](https://github.com/arinazhou/Fitness-App)
-- ✅ **Habit Tracker** — a cute weekly habit tracker in React. [repo](https://github.com/arinazhou/habit-tracker)
+### About
 
-</details>
+```yaml
+name:        Arina Zhou
+education:   B.S. Information Sciences + Data Science, minor in CS @ UIUC (May 2028)
+focus:       [software engineering, data engineering, ML systems]
+exploring:   [GPU performance tuning, cloud data pipelines, distributed data systems]
+off_the_clock: [volleyball, birding, my budgie]
+```
 
----
+### Experience
+
+| Role | Organization | When | Impact |
+|:--|:--|:--|:--|
+| **Software Engineer Intern** | Nighthawk · Van Doren Lab (open source) | May – Aug 2026 | GPU acceleration took inference from **4.8× → 25× real-time**; CPU/GPU eval workflows for reproducible Linux deploys |
+| **Software & Data Engineering Intern** | Windy City Bird Lab & NRES · UIUC | Jun 2025 – Present | Modular geospatial pipelines over sensor data from **50+ monitoring sites**, automated feature generation |
+| **Research Software Developer** | iSchool · UIUC | Aug 2025 – May 2026 | Live audio → synchronized haptics via an event-driven React Native ↔ Swift pipeline |
+
+### Selected Work
+
+| Project | Summary | Stack |
+|:--|:--|:--|
+| [**Nighthawk**](https://github.com/arinazhou/Nighthawk) | GPU-accelerated acoustic inference for nocturnal bird migration detection. **5.2× net speedup.** | ![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) |
+| [**AI Engineering Assistant**](https://github.com/arinazhou/AI-Engineering-Assistant) | Repo-aware RAG that answers questions about a codebase with file citations. | ![](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) ![](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square) |
+| [**FeatherLog**](https://github.com/arinazhou/featherlog) | REST API turning daily budgie weigh-ins into early health alerts and care reminders. | ![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| [**H1BView**](https://github.com/arinazhou/H1BView) | Dashboard over 2025 H-1B filings for finding sponsor-friendly roles and employers. | ![](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+| [**Chicago Bird Communities**](https://github.com/arinazhou/chicago-acoustic-species-composition) | NMDS analysis linking nocturnal bird acoustics to habitat, light and water. | ![](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [**Illini Volleyball Analytics**](https://github.com/arinazhou/illini-volleyball-analytics) | Player evaluation and a Random Forest model for substitution strategy. | ![](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+
+### Toolbox
+
+| | |
+|:--|:--|
+| **Languages** | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Data & ML** | ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![](https://img.shields.io/badge/FAISS-0467DF?style=flat-square) ![](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square) |
+| **Backend & Mobile** | ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) |
+| **Cloud & Infra** | ![](https://img.shields.io/badge/AWS%20Lambda%20·%20API%20Gateway%20·%20DynamoDB-232F3E?style=flat-square) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) |
+
+### GitHub Activity
 
 <p align="center">
-  <i>✨ Build things that make someone curious enough to ask the next question.</i>
+  <img src="https://streak-stats.demolab.com?user=arinazhou&hide_border=true&background=00000000&ring=14B8A6&fire=0F766E&currStreakLabel=14B8A6&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&stroke=30363D" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:0F766E&height=100&section=footer" width="100%" />
 </p>
